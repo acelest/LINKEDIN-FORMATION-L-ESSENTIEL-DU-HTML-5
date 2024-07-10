@@ -21,3 +21,14 @@ Ce repository a été créé pour suivre la formation LinkedIn "L'essentiel du H
 1. Clonez le repository :
    ```bash
    git clone https://github.com/acelest/Linkedin-Formation-L-essentiel-du-HTML-5.git
+
+
+### Tags
+- `HTML5`
+- `Formation`
+- `LinkedIn Learning`
+- `Développement Web`
+- `Exercices`
+- `Exemples de Code`
+- `Notes de Cours`
+- `Apprentissage`
